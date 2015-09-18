@@ -1,0 +1,34 @@
+{
+  "name": "audrey-errsign",
+  "version": "1.0.0",
+  "description": "audrey-seed for creation of one line sign checking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llucbrell/audrey-errsing.git"
+  },
+  "keywords": [
+    "audrey",
+    "audrey-two",
+    "sign",
+    "checking",
+    "control",
+    "controller",
+    "view",
+    "CLI",
+    "command",
+    "line",
+    "interface",
+    "console",
+    "print"
+  ],
+  "author": "Lucas_C/llucbrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llucbrell/audrey-errsing/issues"
+  },
+  "homepage": "https://github.com/llucbrell/audrey-errsing#readme"
+}
