@@ -1,6 +1,6 @@
 {
   "name": "audrey-errsign",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "audrey-seed for creation of one line sign checking",
   "main": "index.js",
   "scripts": {
