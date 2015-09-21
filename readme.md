@@ -40,7 +40,7 @@ var audrey= audrey2(myTerminalDisplay);
 
 audrey.seed(["audrey-errsign-%%"]);
 //tell audrey that there is a new seed
-audrey.feed("E01","I'm an eror..");
+audrey.err("E01","I'm an eror..");
 /* pass an error to audrey
  * if first param start in "W"--> print in yellow
  *  "   "     "     "   "  "E"-->   "    "  red
